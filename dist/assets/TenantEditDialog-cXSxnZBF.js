@@ -1,0 +1,1 @@
+import{t as e}from"./TenantEditDialog-BYLQ-87g.js";export{e as default};
