@@ -1,1 +1,0 @@
-import{t as e}from"./I18nDetailDialog-DUKjTrqr.js";export{e as default};
