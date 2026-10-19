@@ -1,1 +1,0 @@
-import{N as e}from"./Typography-ZDTjk6DR.js";import{t}from"./error-display-BsMxeL8Y.js";var n=e();function r(){return(0,n.jsx)(t,{heading:`401`,titleCode:`errors.page.unauthorized.title`,messageCode:`errors.page.unauthorized.message`,level:`warning`,fullPage:!0})}export{r as default};

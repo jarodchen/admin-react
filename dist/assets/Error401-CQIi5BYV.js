@@ -1,0 +1,1 @@
+import{F as e}from"./useTranslation-D_Wyg8lT.js";import{t}from"./error-display-BcL338HD.js";var n=e();function r(){return(0,n.jsx)(t,{heading:`401`,titleCode:`errors.page.unauthorized.title`,messageCode:`errors.page.unauthorized.message`,level:`warning`,fullPage:!0})}export{r as default};

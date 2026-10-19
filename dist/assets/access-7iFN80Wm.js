@@ -1,1 +1,0 @@
-import{s as e}from"./user-CvdFIuwl.js";function t({perm:t,children:n}){let r=e(),i=Array.isArray(t)?t:[t];return r.can(i)?n:null}export{t};

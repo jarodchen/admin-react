@@ -1,1 +1,0 @@
-import{N as e}from"./Typography-ZDTjk6DR.js";import{t}from"./createSvgIcon-CfhoXs9U.js";var n=e(),r=t((0,n.jsx)(`path`,{d:`M5 4v2h14V4zm0 10h4v6h6v-6h4l-7-7z`}),`Publish`);export{r as t};

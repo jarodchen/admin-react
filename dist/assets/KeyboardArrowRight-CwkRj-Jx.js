@@ -1,0 +1,1 @@
+import{F as e}from"./useTranslation-D_Wyg8lT.js";import{t}from"./createSvgIcon-BnKMoFAg.js";var n=e(),r=t((0,n.jsx)(`path`,{d:`M7.41 8.59 12 13.17l4.59-4.58L18 10l-6 6-6-6z`}),`KeyboardArrowDown`),i=t((0,n.jsx)(`path`,{d:`M8.59 16.59 13.17 12 8.59 7.41 10 6l6 6-6 6z`}),`KeyboardArrowRight`);export{r as n,i as t};

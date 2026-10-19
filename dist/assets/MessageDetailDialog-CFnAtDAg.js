@@ -1,0 +1,1 @@
+import{t as e}from"./MessageDetailDialog-i-gFRFkY.js";export{e as default};

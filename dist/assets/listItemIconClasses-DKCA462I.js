@@ -1,0 +1,1 @@
+import{D as e,O as t}from"./useTranslation-D_Wyg8lT.js";function n(e){return t(`MuiListItemIcon`,e)}var r=e(`MuiListItemIcon`,[`root`,`alignItemsFlexStart`]);export{r as n,n as t};

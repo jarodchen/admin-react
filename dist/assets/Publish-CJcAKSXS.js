@@ -1,0 +1,1 @@
+import{F as e}from"./useTranslation-D_Wyg8lT.js";import{t}from"./createSvgIcon-BnKMoFAg.js";var n=e(),r=t((0,n.jsx)(`path`,{d:`M5 4v2h14V4zm0 10h4v6h6v-6h4l-7-7z`}),`Publish`);export{r as t};

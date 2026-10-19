@@ -1,0 +1,1 @@
+import{D as e,O as t}from"./useTranslation-D_Wyg8lT.js";function n(e){return t(`MuiListItemText`,e)}var r=e(`MuiListItemText`,[`root`,`multiline`,`dense`,`inset`,`primary`,`secondary`]);export{r as n,n as t};
