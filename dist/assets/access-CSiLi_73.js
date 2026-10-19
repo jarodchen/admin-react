@@ -1,0 +1,1 @@
+import{s as e}from"./user-C1iVH9Fe.js";function t({perm:t,children:n}){let r=e(),i=Array.isArray(t)?t:[t];return r.can(i)?n:null}export{t};
