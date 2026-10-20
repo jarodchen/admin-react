@@ -1,0 +1,1 @@
+import{t as e}from"./DictTypeEditDialog-1Pgko16g.js";export{e as default};

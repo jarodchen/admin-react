@@ -1,0 +1,1 @@
+import{t as e}from"./AvatarCard-BSfrCkA2.js";export{e as default};

@@ -1,0 +1,1 @@
+import{t as e}from"./RolePermDialog-DrLBTWip.js";export{e as default};
